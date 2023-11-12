@@ -1,0 +1,7 @@
+#Sun Nov 12 14:04:30 EST 2023
+base.0=/Users/adam/Downloads/webview-master/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/Users/adam/Downloads/webview-master/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
+path.0=0/classes.dex
+path.1=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
